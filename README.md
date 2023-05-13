@@ -29,4 +29,3 @@ This script can be modified to create different types of animations by changing 
 This proof of concept was created with the help of Bing search engine.
 
 
-I hope this helps!
