@@ -4,7 +4,7 @@ Exprimental command line implementation of blender for use in larger workflows.
 
 # Blender Script Proof of Concept
 
-This is a proof of concept for running Blender with a Python script on Colab. The script creates a plane and six spheres at random positions on the plane, creates a camera and sets its position and rotation, creates a path for the camera to follow, sets the camera to follow the path, sets the render engine to Eevee and sets the output file format and name, sets the render resolution as 720p and renders the animation.
+This is a proof of concept for running Blender with a Python script on Colab. The script downloads and extracts Blender 2.93 for linux, creates a plane and six spheres at random positions on the plane, creates a camera and sets its position and rotation, creates a path for the camera to follow, sets the camera to follow the path, sets the render engine to Eevee and sets the output file format and name, sets the render resolution as 720p and renders the animation.
 
 ## Usage
 
